@@ -1,0 +1,44 @@
+{
+  "dashboardTabLabel": "Dashboard",
+  "jobsTabLabel": "Jobs",
+  "installerSchedulerTabLabel": "Installer Scheduler",
+  "installersTabLabel": "Installers",
+  "organizationSettingsTabLabel": "Organization",
+  "settingsTabLabel": "Settings",
+  "profileSettingsTabLabel": "Profile",
+  "subscriptionSettingsTabLabel": "Subscription",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "modalConfirmationQuestion": "Are you sure you want to continue?",
+  "imageInputLabel": "Click here to upload an image",
+  "cancel": "Cancel",
+  "backToHomePage": "Back to Home Page",
+  "pageNotFound": "Sorry, the page was not found",
+  "pageNotFoundSubHeading": "Apologies, the page you were looking for was not found",
+  "genericError": "Sorry, we hit an unexpected error",
+  "genericErrorSubHeading": "We apologize for the inconvenience, but we hit an unexpected error. Please try again later.",
+  "anonymousUser": "Anonymous",
+  "theme": "Theme",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "systemTheme": "System",
+  "expandSidebar": "Expand Sidebar",
+  "collapseSidebar": "Collapse Sidebar",
+  "documentation": "Documentation",
+  "getStarted": "Get Started",
+  "contactUs": "Contact Us",
+  "roles": {
+    "owner": {
+      "label": "Owner",
+      "description": "Can change any setting, invite new members and manage billing"
+    },
+    "admin": {
+      "label": "Admin",
+      "description": "Can change some settings, invite members, perform disruptive actions"
+    },
+    "member": {
+      "label": "Member",
+      "description": "Cannot invite members or change settings"
+    }
+  }
+}
