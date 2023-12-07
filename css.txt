@@ -1,0 +1,26 @@
+<figure>
+<div class="wrapper">
+<div class="ys-seen-border"></div>
+<div class="data"><div class="content">
+<div class="ys-author-wrapper"><div class="author-info ys-author-info">
+<img class="img-circle img-user-mini lozad lazy-loaded fadeIn" data-src="http://yoors.local//img/posts/no_profile_photo.svg" 
+src="http://yoors.local//img/posts/no_profile_photo.svg" data-loaded="true"><span class="author" "=""> Sadaf                                                     
+<i class="fas fa-badge-check ys-verified" style=""></i></span></div><div class="ys-card-date" 
+data-toggle="tooltip" title="" data-placement="top" data-original-title="18 August 2022 01:22">16 minutes ago</div></div><div class="text">#Events
+</div><div class="ys-card-cta" style="display: block;">
+<div class="treat">
+
+            <div id="gallery1">
+                <div>
+                    <div> <span class="dropcap_1">19 <span>August</span></span>
+
+                        <ul class="contacts-list">
+                            <li class="lists-item"><i class="fa fa-clock fa-1x" style="color: #aaa"><span class="contact-text place">Friday, 19 August at 01:23 AM</span></i></li>
+                            <li class="lists-item"><i class="fa fa-map-marker fa-1x" style="color: #aaa"><span class="contact-text place"> dcdc, cdc, BH</span></i></li>
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div></div></div></div></div></figure>
